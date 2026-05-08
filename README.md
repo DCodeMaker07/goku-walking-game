@@ -2,7 +2,7 @@
 
 https://app.netlify.com/projects/silver-blancmange-9905c3/overview
 
-## Captuas
+## Capturas
 
 <img width="1915" height="939" alt="Captura de pantalla 2026-05-07 232529" src="https://github.com/user-attachments/assets/83a5ef62-aeaf-4938-b64c-8ef24edfcc9d" />
 
